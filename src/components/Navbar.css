@@ -1,0 +1,17 @@
+.navbar {
+    margin-top:auto;
+    align-items: center;
+    height: 11rem;
+    background-color: #333;
+   text-align: center;
+
+  }
+   .h1{
+    font-size:100px; 
+    background-color: #333;
+    color: aliceblue;
+    margin: auto;
+    padding: 0.7rem;
+  }
+
+ 
